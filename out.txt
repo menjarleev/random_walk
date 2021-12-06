@@ -1,0 +1,294 @@
+Read Time:           0.10262
+Build Time:          0.01770
+Reading hyperparameters config file add-hyperparams-filename...
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.44585
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00022
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00036
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00025
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00027
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00024
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00029
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00024
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00024
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00028
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00025
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00026
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00024
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00029
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00024
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00030
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00026
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00023
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00022
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 145
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 149
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 150
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 151
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 152
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 155
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 156
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 157
+Error: an illegal memory access was encountered
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 184
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 187
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 188
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 189
+CUDA error: an illegal memory access was encountered: /home/ubuntu/rwalk/rwalk.cu, line 190
+[TimingStat] Random walk time (s):                0.00023

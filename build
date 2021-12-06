@@ -1,0 +1,21 @@
+#!/bin/bash
+set -Eeuo pipefail
+
+if [ "$#" -ne 0 ]; then
+    echo "Usage: ./build"
+    exit 1
+fi
+if [ ! -d "_build" ]
+then
+    mkdir _build
+else
+    rm -rf _build
+    mkdir _build
+fi
+
+cd _build/
+cmake ..
+make -j4
+cd ../
+
+echo "Successfully built"
